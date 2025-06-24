@@ -15,5 +15,5 @@ This folder contains the core documents of the repository.
     * [`Anabin: German Institutions Database`](./titles/https___anabin.kmk.org_db_institutionen.pdf) - Official PDF from Anabin listing institutions.
 
 * **Title Lists (PDF)**
-    * [`German Titles (PDF)`](./titles/titles-de.pdf)
-    * [`Spanish Titles (PDF)`](./titles/titles-es.pdf)
+    * [`Titles in German(PDF)`](./titles/titles-de.pdf)
+    * [`Titles in Spanish(PDF)`](./titles/titles-es.pdf)
