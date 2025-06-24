@@ -17,6 +17,3 @@ This folder contains the core documents of the repository.
 * **Title Lists (PDF)**
     * [`German Titles (PDF)`](./titles/titles-de.pdf)
     * [`Spanish Titles (PDF)`](./titles/titles-es.pdf)
-
-* **Markdown Summary**
-    * [`Titles Summary (Markdown)`](./titles/titles.md) - A summary or explanation of the files in this directory.
