@@ -1,4 +1,4 @@
-### Project Title: CV
+title: Project Title: CV
 
 This repository contains information and documents related to academic and professional titles.
 
